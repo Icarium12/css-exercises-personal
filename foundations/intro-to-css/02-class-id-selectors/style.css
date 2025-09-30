@@ -1,1 +1,18 @@
-/* Add CSS Styling */
+.odd-number {
+    background-color: rgb(216, 132, 191);
+}
+
+#second-element {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+#third-element {
+    font-size: 24px;
+}
+
+#fourth-element {
+    background-color: rgb(106, 172, 106);
+    font-size: 24px;
+    font-weight: bold;
+}

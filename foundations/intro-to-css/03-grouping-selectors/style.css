@@ -1,1 +1,13 @@
 /* Add CSS Styling */
+
+.section.unique{
+    background-color: black;
+    color: white;
+}
+.section#unique2{
+    background-color: yellow;
+}
+.section{
+    font-size: 28px;
+    font-family: 'Helvetica', 'Times New Roman', 'sans-serif' ;
+}
